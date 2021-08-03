@@ -7,6 +7,8 @@
 * 👩‍💻 I love programming!! I have learning **Python** from 5 years ago. **Dart**, **JavaScript** and **Golang** too, from 2019...
 * 👪 I have a daughter of 5 years old and because of her and my wife, I want to overcome the barriers.
 
+## Contributions
 
+<img src="https://github-readme-stats.vercel.app/api?username=diego-garro&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
 
 ~$🎈 You can find me on Twitter [@dgarromolina](https://twitter.com/dgarromolina) 
