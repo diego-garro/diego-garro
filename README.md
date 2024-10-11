@@ -4,8 +4,8 @@
 
 
 * ✈️ I am an Aeronautical Meteorologist passionate of technology. I have been working on weather forecast for more than 7 years.
-* 👩‍💻 I love programming!! I have learning **Python** from 6 years ago. Learning **Dart**, **JavaScript** and **Golang**, from 2019...
-* 👪 I have a daughter of 6 years old and because of her and my wife, I want to overcome the barriers.
+* 👩‍💻 I love programming!! I have learning **Python** since 2018. Learning **Dart**, **JavaScript** and **Golang**, from 2019...
+* 👪 I have a daughter of 9 years old and because of her and my wife, I want to overcome the barriers.
 
 ## Contributions
 
