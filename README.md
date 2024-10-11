@@ -1,6 +1,6 @@
 ### Diego Garro Molina
 
-~$ 🌪️ B. Sc. in Meteorology, Aeronautical Forecaster, Tech Passionate and GNU/Linux User (openSUSE and Manjaro ❤️)
+~$ 🌪️ B. Sc. in Meteorology, Aeronautical Forecaster, Tech Passionate and GNU/Linux User (Fedora, openSUSE and Manjaro ❤️)
 
 
 * ✈️ I am an Aeronautical Meteorologist passionate of technology. I have been working on weather forecast for more than 7 years.
